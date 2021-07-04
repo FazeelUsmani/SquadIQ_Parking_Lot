@@ -1,2 +1,12 @@
 # SquadIQ_Parking_Lot
-This repo contains the Parking lot design submitted to Squadstack for Product Engineer - 2 role
+
+This repository contains the Parking lot design submitted to Squadstack for Product Engineer - 2 role
+
+
+
+Create virtual environment
+"""
+virtualenv -p python3 .myenv
+source .myenv/scripts/activate
+"""
+
